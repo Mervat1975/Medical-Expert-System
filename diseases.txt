@@ -11,4 +11,7 @@ Glaucoma
 Hyperthyroidism
 Heat Stroke
 Hypothermia
-XYZ
+Healthy
+Migraine
+Asthma
+Enophthalmos
