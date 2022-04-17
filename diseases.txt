@@ -15,3 +15,8 @@ Healthy
 Migraine
 Asthma
 Enophthalmos
+Pharyngitis
+Typhoid
+Malaria
+Multiple Sclerosis
+Covid-19
